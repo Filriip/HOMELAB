@@ -4,17 +4,19 @@
 
 
 
-| Logo                                                                                                                                                 | Name                                                               | Description                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>                     | [**Ansible**](https://www.ansible.com/)                            | Automate bare metal provisioning and configuration                                |
-| <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="40" height="40"/>                 | [**ArgoCD**](https://argo-cd.readthedocs.io/)                      | GitOps tool built to deploy applications to Kubernetes                            |
-| <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/cert-manager/icon/color/cert-manager-icon-color.svg" width="40" height="40"/> | [**cert-manager**](https://cert-manager.io/)                       | Cloud native certificate management                                               |
-| <img src="https://raw.githubusercontent.com/cilium/cilium/master/Documentation/images/logo-solo.svg" width="40" height="40"/>                        | [**Cilium**](https://cilium.io/)                                   | eBPF-based Networking, Observability and Security (CNI, LB, Network Policy, etc.) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Cloudflare_logo.svg" width="40" height="40"/>                                          | [**Cloudflare**](https://www.cloudflare.com/)                      | DNS and Tunnel                                                                    |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>                       | [**Docker**](https://www.docker.com/)                              | Ephemeral PXE server                                                              |
-| <img src="https://raw.githubusercontent.com/kubernetes-sigs/external-dns/master/docs/images/external-dns.png" width="40" height="40"/>               | [**ExternalDNS**](https://github.com/kubernetes-sigs/external-dns) | Synchronizes exposed Kubernetes Services and Ingresses with DNS providers         |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Fedora_logo.svg" width="40" height="40"/>                                              | [**Fedora Server**](https://getfedora.org/)                        | Base OS for Kubernetes nodes                                                      |
-| <img src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/img/gitea.svg" width="40" height="40"/>                                       | [**Gitea**](https://gitea.io/)                                     | Self-hosted Git service                                                           |
-| <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="40" height="40"/>                               | [**Grafana**](https://grafana.com/)                                | Observability platform                                                            |
-| <img src="https://raw.githubusercontent.com/helm/helm/main/docs/img/helm-logo.svg" width="40" height="40"/>                                          | [**Helm**](https://helm.sh/)                                       | The package manager for Kubernetes                                                |
-| <img src="https://raw.githubusercontent.com/k3s-io/k3s/main/logo/k3s-logo-light.svg" width="40" height="40"/>                                        | [**K3s**](https://k3s.io/)                                         | Lightweight distribution of Kubernetes                                            |
+
+
+### 🧰 Tech Stack
+
+| Logo | Name | Description |
+|------|------|-------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/VMware_workstation_16_icon.svg" width="40" height="40"/> | [**VMware ESXi**](https://www.vmware.com/) | Virtualization platform for running multiple VMs |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Windows_logo_%282012–2019%29.svg" width="40" height="40"/> | [**Windows Server**](https://www.microsoft.com/windows-server) | Operating system for hosting Active Directory, DNS, WSUS, and other services |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Veeam_logo.svg" width="40" height="40"/> | [**Veeam Backup & Replication**](https://www.veeam.com/) | Backup and recovery solution for virtual and physical environments |
+| <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="80" height="30"/> | [**Zabbix**](https://www.zabbix.com/) | Monitoring and alerting platform for infrastructure and applications |
+| <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" width="40" height="40"/> | [**Grafana**](https://grafana.com/) | Visualization and observability platform for metrics and logs |
+| <img src="https://www.graylog.org/assets/images/graylog_logo_icon.svg" width="40" height="40"/> | [**Graylog**](https://www.graylog.org/) | Centralized log management and analysis platform |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> | [**Docker**](https://www.docker.com/) | Containerization platform for lightweight and isolated applications |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fortinet_logo.svg" width="80" height="30"/> | [**Fortinet**](https://www.fortinet.com/) | Network security and firewall management solution |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Tailscale_logo.svg" width="40" height="40"/> | [**Tailscale**](https://tailscale.com/) | Secure VPN mesh based on WireGuard for remote access and connectivity |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/> | [**Ansible**](https://www.ansible.com/) | Automation tool for configuration management and deployment |
