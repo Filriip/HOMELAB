@@ -20,3 +20,4 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fortinet_logo.svg" width="80" height="30"/> | [**Fortinet**](https://www.fortinet.com/) | Network security and firewall management solution |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Tailscale_logo.svg" width="40" height="40"/> | [**Tailscale**](https://tailscale.com/) | Secure VPN mesh based on WireGuard for remote access and connectivity |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/> | [**Ansible**](https://www.ansible.com/) | Automation tool for configuration management and deployment |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/veeam/veeam.svg" width="40" height="40"/> | [**veeam**](https://www.veeam.com/) | sauvegarde des machines virtuelles |
