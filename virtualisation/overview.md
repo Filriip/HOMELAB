@@ -9,10 +9,10 @@ Cette section décrit la couche de virtualisation du homelab utilisée pour héb
 - Gérer les sauvegardes via Veeam
 
 ## 🖥️ Hyperviseurs
-| Hôte | Logiciel | Ressources | Rôle principal |
-|------|-----------|-------------|----------------|
-| ESXi-1 | VMware ESXi 7.0 | 32 Go RAM / 8 vCPU | Héberge SRV-DC, SRV-VEEAM |
-| ESXi-2 | VMware ESXi 8.0 | 64 Go RAM / 12 vCPU | Héberge SRV-MDT, SRV-ZABBIX |
+| Hôte | Logiciel | Ressources | 
+|------|-----------|-------------|
+| ESXi-1 | VMware ESXi 7.0 | 32 Go RAM / 8 vCPU | 
+| ESXi-2 | VMware ESXi 8.0 | 64 Go RAM / 12 vCPU | 
 
 
 Les 2 hotes ESXi dispose de deux supports physiques :
