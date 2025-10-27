@@ -1,23 +1,18 @@
-
-<img width="824" height="755" alt="homelab drawio" src="https://github.com/user-attachments/assets/00f62dd9-8eed-4911-92de-3bfab34ffb09" />
-
-
-
-
-
-
 ### 🧰 Tech Stack
 
 | Logo | Name | Description |
 |------|------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/VMware_workstation_16_icon.svg" width="40" height="40"/> | [**VMware ESXi**](https://www.vmware.com/) | Virtualization platform for running multiple VMs |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microsoft_Windows_logo_%282012–2019%29.svg" width="40" height="40"/> | [**Windows Server**](https://www.microsoft.com/windows-server) | Operating system for hosting Active Directory, DNS, WSUS, and other services |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Veeam_logo.svg" width="40" height="40"/> | [**Veeam Backup & Replication**](https://www.veeam.com/) | Backup and recovery solution for virtual and physical environments |
-| <img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="80" height="30"/> | [**Zabbix**](https://www.zabbix.com/) | Monitoring and alerting platform for infrastructure and applications |
-| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/grafana.png" width="40" height="40"/> | [**Grafana**](https://grafana.com/) | Visualization and observability platform for metrics and logs |
-| <img src="[https://www.graylog.org/assets/images/graylog_logo_icon.svg](https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/graylog.png)" width="40" height="40"/> | [**Graylog**](https://www.graylog.org/) | Centralized log management and analysis platform |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> | [**Docker**](https://www.docker.com/) | Containerization platform for lightweight and isolated applications |
-| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/fortinet.png" width="80" height="30"/> | [**Fortinet**](https://www.fortinet.com/) | Network security and firewall management solution |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Tailscale_logo.svg" width="40" height="40"/> | [**Tailscale**](https://tailscale.com/) | Secure VPN mesh based on WireGuard for remote access and connectivity |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/> | [**Ansible**](https://www.ansible.com/) | Automation tool for configuration management and deployment |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/veeam/veeam.svg" width="40" height="40"/> | [**veeam**](https://www.veeam.com/) | sauvegarde des machines virtuelles |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/vmware-esxi.png" width="40" height="40"/> | [**VMware ESXi**](https://www.vmware.com/) | Hyperviseur utilisé pour l’hébergement et la gestion des machines virtuelles |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/windows.png" width="40" height="40"/> | [**Windows Server**](https://www.microsoft.com/windows-server) | Système d’exploitation serveur pour Active Directory, DNS, WSUS, etc. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/veeam.png" width="40" height="40"/> | [**Veeam Backup & Replication**](https://www.veeam.com/) | Solution de sauvegarde et de restauration pour environnements virtuels |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/zabbix.png" width="40" height="40"/> | [**Zabbix**](https://www.zabbix.com/) | Outil de supervision et d’alerte pour l’infrastructure et les services |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/grafana.png" width="40" height="40"/> | [**Grafana**](https://grafana.com/) | Plateforme de visualisation et d’observabilité pour les métriques et logs |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/graylog.png" width="40" height="40"/> | [**Graylog**](https://www.graylog.org/) | Centralisation et analyse des logs de l’infrastructure |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/docker.png" width="40" height="40"/> | [**Docker**](https://www.docker.com/) | Plateforme de conteneurisation pour déployer des applications isolées |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/portainer.png" width="40" height="40"/> | [**Portainer**](https://www.portainer.io/) | Interface web de gestion et supervision des conteneurs Docker |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/nextcloud.png" width="40" height="40"/> | [**Nextcloud**](https://nextcloud.com/) | Solution d’hébergement de fichiers et de collaboration auto-hébergée |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/stirling-pdf.png" width="40" height="40"/> | [**Stirling PDF**](https://github.com/Frooodle/Stirling-PDF) | Service web pour convertir et manipuler des fichiers PDF |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/homepage.png" width="40" height="40"/> | [**Homepage**](https://gethomepage.dev/) | Tableau de bord centralisé pour accéder à l’ensemble des services du homelab |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/fortinet.png" width="40" height="40"/> | [**Fortinet**](https://www.fortinet.com/) | Solution de sécurité réseau et pare-feu pour la protection du homelab |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/tailscale.png" width="40" height="40"/> | [**Tailscale**](https://tailscale.com/) | Réseau VPN sécurisé basé sur WireGuard pour l’accès distant |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/ansible.png" width="40" height="40"/> | [**Ansible**](https://www.ansible.com/) | Outil d’automatisation pour le déploiement et la configuration des systèmes |
