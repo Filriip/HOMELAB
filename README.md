@@ -1,3 +1,10 @@
+
+
+<img width="824" height="755" alt="homelab drawio" src="https://github.com/user-attachments/assets/f9a6d0fa-d809-41ee-95ef-31cd2aef2ec3" />
+
+
+
+
 ### 🧰 Tech Stack
 
 | Logo | Name | Description |
