@@ -3,7 +3,7 @@
 | Logo | Name | Description |
 |------|------|-------------|
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/vmware-esxi.png" width="40" height="40"/> | [**VMware ESXi**](https://www.vmware.com/) | Hyperviseur utilisé pour l’hébergement et la gestion des machines virtuelles |
-| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/windows.png" width="40" height="40"/> | [**Windows Server**](https://www.microsoft.com/windows-server) | Système d’exploitation serveur pour Active Directory, DNS, WSUS, etc. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/windows-server.png" width="40" height="40"/> | [**Windows Server**](https://www.microsoft.com/windows-server) | Système d’exploitation serveur pour Active Directory, DNS, WSUS, etc. |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/veeam.png" width="40" height="40"/> | [**Veeam Backup & Replication**](https://www.veeam.com/) | Solution de sauvegarde et de restauration pour environnements virtuels |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/zabbix.png" width="40" height="40"/> | [**Zabbix**](https://www.zabbix.com/) | Outil de supervision et d’alerte pour l’infrastructure et les services |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/grafana.png" width="40" height="40"/> | [**Grafana**](https://grafana.com/) | Plateforme de visualisation et d’observabilité pour les métriques et logs |
