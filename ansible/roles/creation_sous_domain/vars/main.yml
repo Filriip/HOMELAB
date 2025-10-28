@@ -3,5 +3,5 @@ domain_name: test.homelab.local
 parent_domain: homelab.local
 
 parent_domain_user: "Administrateur@homelab.local"
-parent_domain_password: "Azerty123"
-safe_mode_password: "Azerty123"
+parent_domain_password: ""
+safe_mode_password: ""
