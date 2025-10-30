@@ -23,3 +23,9 @@
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/fortinet.png" width="40" height="40"/> | [**Fortinet**](https://www.fortinet.com/) | Solution de sécurité réseau et pare-feu pour la protection du homelab |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/tailscale.png" width="40" height="40"/> | [**Tailscale**](https://tailscale.com/) | Réseau VPN sécurisé basé sur WireGuard pour l’accès distant |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/ansible.png" width="40" height="40"/> | [**Ansible**](https://www.ansible.com/) | Outil d’automatisation pour le déploiement et la configuration des systèmes |
+
+
+
+hotes superviser via zabbix
+
+<img width="1874" height="923" alt="image" src="https://github.com/user-attachments/assets/b00061d2-70ef-46ed-95be-bbf1beb7299d" />
