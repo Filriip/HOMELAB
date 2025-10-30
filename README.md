@@ -29,3 +29,9 @@
 hotes superviser via zabbix
 
 <img width="1874" height="923" alt="image" src="https://github.com/user-attachments/assets/b00061d2-70ef-46ed-95be-bbf1beb7299d" />
+
+
+tableau de bord pour la supervison des hotes windows serveurs
+
+<img width="1912" height="932" alt="image" src="https://github.com/user-attachments/assets/ccfcda39-16d8-4a37-a8b8-748ddb1cd4fc" />
+
