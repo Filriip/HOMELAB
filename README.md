@@ -5,7 +5,7 @@
 
 
 
-### 🧰 Tech Stack
+### 🧰 technologies utilisées
 
 | Logo | Name | Description |
 |------|------|-------------|
@@ -26,7 +26,8 @@
 
 
 
-hotes superviser via zabbix
+hôtes supervisés via Zabbix
+
 
 <img width="1874" height="923" alt="image" src="https://github.com/user-attachments/assets/b00061d2-70ef-46ed-95be-bbf1beb7299d" />
 
